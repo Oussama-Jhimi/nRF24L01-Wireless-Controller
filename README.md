@@ -32,7 +32,11 @@ A compact, battery‑friendly system that reads a PS/2 game controller (joystick
 
 ### 4. PS/2 Connector (6‑pin)  
 - **SEL**,**CMD**,**CLK**, **DAT**, **VCC (3.3 V)**, **GND**  
-- Standard PS/2 wiring for legacy controllers  
+- Standard PS/2 wiring for legacy controllers
+
+### 5. PCB Layout  
+- 🖥️ **Altium Designer**  
+  - Les fichiers de schéma et de routage Altium (`.SchDoc` & `.PcbDoc`) sont disponibles 
 
 ---
 
